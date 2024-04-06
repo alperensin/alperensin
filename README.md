@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake animation](https://github.com/alperensin/alperensin/blob/output/github-contribution-grid-snake2.svg)
+
 <!--
 **alperensin/alperensin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
